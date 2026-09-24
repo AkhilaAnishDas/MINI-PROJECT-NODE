@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "participantName": "Priya",
+    "email": "priya@gmail.com",
+    "eventName": "Code Sprint"
+  },
+  {
+    "id": 2,
+    "participantName": "Rahul",
+    "email": "rahul@gmail.com",
+    "eventName": "Web Hackathon"
+  },
+  {
+    "id": 3,
+    "participantName": "Aisha",
+    "email": "aisha@gmail.com",
+    "eventName": "AI Quiz"
+  },
+  {
+    "id": 4,
+    "participantName": "Priya",
+    "email": "priya@gmail.com",
+    "eventName": "AI Quiz"
+  }
+]
